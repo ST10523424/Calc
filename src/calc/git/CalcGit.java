@@ -17,6 +17,7 @@ public class CalcGit {
     public static void main(String[] args) {
         // TODO code application logic here 
        //IDFK ._.
+        System.out.println("");
     }
     
 }
